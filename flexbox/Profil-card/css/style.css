@@ -1,0 +1,63 @@
+body{
+background-color: rgb(212, 218, 218);
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.card{
+    background-color: rgb(81, 128, 91);
+    border-radius: 6px;
+    display: inline-block;
+    height: 470px;
+    width: 375px;
+    margin-top: 60px;
+    box-shadow: 0 12px 13px rgb(122, 125, 118);
+}
+
+.ima{
+    border-radius: 100%;
+    margin-top: 60px;
+    width: 132px;
+    height: 128px;
+
+
+}
+
+.name{
+    color: aqua;
+
+}
+
+.title{
+    color: rgb(255, 248, 248);
+    font-size: 16px;
+
+}
+.desc{
+    font-size: 14px;
+    margin-left: 65px;
+    margin-right: 65px;
+    margin-top: 16px;
+
+}
+
+
+.btn{
+    background-color: pink;
+    border: none;
+    color: rgb(6, 4, 4);
+    margin-top: 20px;
+    height: 40px;
+    width: 35%;
+    border-radius: 10%;
+    
+    
+    
+
+    
+
+}
